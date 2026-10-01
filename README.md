@@ -1,6 +1,6 @@
 ﻿<div align="center">
 
-# 👋 j75390
+# 👋 dijk
 
 ### Backend / Java / Spring Study
 
@@ -17,22 +17,6 @@
 </div>
 
 > GitHub Actions가 매일 자동으로 3D 잔디를 갱신합니다.
-
----
-
-## 🏆 GitHub Achievements
-
-GitHub 공식 Achievement는 이 프로필의 **Achievements** 영역에 자동으로 표시됩니다.
-
-이번 설정 스크립트는 아래 조건을 실제 GitHub 작업으로 만들어 봅니다.
-
-- ⚡ Quickdraw
-- 🦈 Pull Shark
-- 🎯 YOLO
-
-표시에는 GitHub 쪽 반영 시간이 걸릴 수 있습니다.
-
----
 
 ## 📚 Current Focus
 
